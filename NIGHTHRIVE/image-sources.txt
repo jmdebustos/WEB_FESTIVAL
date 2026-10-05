@@ -1,0 +1,31 @@
+NIGHTHRIVE 2027 — FUENTES DE IMÁGENES EXTERNAS
+
+Las fotos de artistas y los logotipos externos de colaboradores se cargan desde las direcciones indicadas en script.js e index.html. El logo de Red Bull está incluido en media/red-bull-logo.png.
+
+ARTISTAS
+Basswell — https://bugece.co/en/artist/basswell--b156cf51
+AZYR — https://mixmag.es/read/azyr-precision-industrial-energia-rave-y-brutalismo-sonoro-news
+Sara Landry — https://www.bandsintown.com/es/e/1038147024-sara-landry-at-pepsi-center-wtc
+VII Circle — https://ra.co/dj/7circle
+Trym — retrato de prensa de su agencia de representación: https://www.spinartistagency.com/trym
+Kobosil — https://www.shazam.com/artist/kobosil/690031931
+CLTX — https://ra.co/events/1663207
+Cera Khin — https://www.warehouse-nantes.fr/artist/cera-khin
+Farrago — https://piknicelectronik.com/en/artists/farrago
+Shlømo — https://ra.co/dj/shlomo
+Quelza — retrato del resultado de búsqueda de Telpa: https://telpa.lv/en/artists/quelza (imagen: https://telpa.lv/_next/image?q=75&url=%2Fassets%2Fartists%2Fquelza.jpg&w=3840)
+I Hate Models — https://www.subtronic.fr/web/releases/i-hate-models/
+Parsa Jafari — https://ra.co/dj/parsajafari
+CLOUDY — https://www.warehouse-nantes.fr/artist/cloudy
+Adrián Mills — perfil de SoundCloud: https://soundcloud.com/adrianxmills (retrato: https://i1.sndcdn.com/avatars-YY1Oywfuk2SW2lyu-8mtvrw-t1080x1080.jpg)
+VENDEX — https://soundcloud.com/vendexofficial
+Dyen — retrato promocional: https://wegoout.com.br/artistas/dyen (imagen: https://api.wegoout.com.br/images/artists/869/large_dyen.png)
+Klangkuenstler — https://www.moshtix.com.au/v2/event/klangkuenstler-headline-show/194592
+FANTASM — https://www.regoon.com/artist/2323/fantasm_techno-.htm
+Nico Moreno — https://www.time-warp.de/artists/nico-moreno/
+
+COLABORADORES
+Mahou — https://wetechfood.com/
+Jägermeister — https://freepngdesign.com/jaegermeister-logo-png-transparent-logo-8254.html
+Red Bull — archivo local media/red-bull-logo.png; logo transparente preparado a partir de la imagen enviada.
+Ron Barceló — https://seeklogo.com/vector-logo/489047/ron-barcelo
